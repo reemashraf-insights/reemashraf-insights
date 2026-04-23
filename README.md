@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Reem 👋
 
-<!--
-**reemashraf-insights/reemashraf-insights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Data Analyst passionate about transforming data into insights.
 
-Here are some ideas to get you started:
+📊 Skilled in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Excel (Pivot Tables, Dashboards)
+* SQL (Learning)
+* Data Visualization
+
+🚀 Projects:
+
+* Sales Performance Analysis
+* Customer Behavior Analysis
+* HR Attrition Analysis
+
+📫 Let's connect!
+www.linkedin.com/in/reemashraf-insights
+
+
+
+https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NDRlZmludXE3emsxb3ZzNHZkbGc2OWp1aXVqeDM1dHl6eTN3eHl1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif
