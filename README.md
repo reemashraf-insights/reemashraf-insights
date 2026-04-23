@@ -17,6 +17,3 @@
 📫 Let's connect!
 www.linkedin.com/in/reemashraf-insights
 
-
-
-https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NDRlZmludXE3emsxb3ZzNHZkbGc2OWp1aXVqeDM1dHl6eTN3eHl1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif
