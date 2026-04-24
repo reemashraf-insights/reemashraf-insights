@@ -57,6 +57,15 @@
 
 ###
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/reemashraf-insights/reemashraf-insights/output/pacman-contribution-graph.svg#gh-light-mode-only" alt="Pacman Light">
+  <img src="https://raw.githubusercontent.com/reemashraf-insights/reemashraf-insights/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="Pacman Dark">
+</p>
 
+###
+
+<img src="https://raw.githubusercontent.com/reemashraf-insights/reemashraf-insights/output/pacman-contribution-graph-dark.svg?v=1#gh-dark-mode-only">
+
+###
 
 
