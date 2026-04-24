@@ -16,6 +16,7 @@
 I don’t just build dashboards.
 
 I answer one critical question:
+
 👉 What should the business do next?
 
 - Clear business insights
