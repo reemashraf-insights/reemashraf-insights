@@ -53,6 +53,7 @@ Each project is designed to:
 - performing products driving revenue
 - Detected underperforming segments impacting profitability
 - Delivered actionable recommendations to improve sales strategy
+  
 🔗 [View Project](https://github.com/reemashraf-insights/Sales-Performance-Analysis-Excel)
 
 💰 Impact: Identified key revenue drivers and uncovered underperforming segments to improve sales performance
@@ -63,6 +64,7 @@ Each project is designed to:
 - Analyzed purchasing behavior and repeat patterns
 - Identified high-value customer segments
 - Supported targeted marketing decisions
+  
 🔗 [View Project](https://github.com/reemashraf-insights/Customer-Behavior-Analysis-Excel)
 
 💰 Impact: Revealed high-value customer segments and improved targeting for better marketing decisions
