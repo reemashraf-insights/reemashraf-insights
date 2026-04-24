@@ -83,9 +83,10 @@ Each project is designed to:
 ### 
 
 <h3 align="left">📈 What You Get Working With Me </h3> 
+
 - Clean, reliable, decision
-- ready data 
-- Dashboards built for real business use 
+- ready data
+- Dashboards built for real business use
 - Insights that drive measurable results 
 
 ### 
@@ -94,9 +95,8 @@ Each project is designed to:
 
 ### 
 
-<h3 align="left">🤝 Let’s Work </h3> 
+<h3 align="left">🚀 Let’s Work Together If you're looking for someone who </h3> 
 
-## 🚀 Let’s Work Together If you're looking for someone who: 
 - Understands data AND business
 - Focuses on impact, not just analysis
 - Helps you make better decisions
