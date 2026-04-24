@@ -44,6 +44,9 @@
 
 ###
 
+[![pacman contribution graph](https://raw.githubusercontent.com/reemashraf-insights/reemashraf-insights/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)](https://github.com/reemashraf-insights/reemashraf-insights)
+[![pacman contribution graph](https://raw.githubusercontent.com/reemashraf-insights/reemashraf-insights/output/pacman-contribution-graph.svg#gh-light-mode-only)](https://github.com/reemashraf-insights/reemashraf-insights)
+
 ###
 
 <picture>
