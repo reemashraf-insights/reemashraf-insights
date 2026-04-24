@@ -1,14 +1,12 @@
 <h1 align="left">Hi 👋! My name is Reem </h1>
-
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHV1M29lYmlkODRnOWU2NXdjZjZzZ2l0ZnBzZng4ZXNtMmp0YjMxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JkVnfE54QdOMQBxmHg/giphy.gif
-"  />
-
 <h2 align="left">💻 Data Analyst passionate about transforming data into insights.</h2>
 
 ###
 
 <img align="left" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNleG9jZHo3N24xazNkOHZmbnhvZDBzZWdyeGQzYTVkcTd3dXRnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y2wwz20Ji8N4DrnGFJ/giphy.gif"  />
 
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHV1M29lYmlkODRnOWU2NXdjZjZzZ2l0ZnBzZng4ZXNtMmp0YjMxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JkVnfE54QdOMQBxmHg/giphy.gif
+"  />
 
 ###
 
