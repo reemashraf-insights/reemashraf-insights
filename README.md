@@ -1,24 +1,31 @@
-<h1 align="left">Hi 👋! My name is Reem </h1>
-<h2 align="left">💻 Data Analyst passionate about transforming data into insights.</h2>
+<h1 align="left">Reem Ashraf | Data Analyst</h1>
+<h3 align="left">Turning data into actionable business insights 💸</h3>
+
+###
+
+💡 I turn messy data into clear decisions that drive revenue
+
+###
+
+I transform raw data into clear, actionable insights that drive smarter business decisions.
+
+My focus:
+- Identifying revenue drivers  
+- Understanding customer behavior  
+- Delivering measurable business impact
 
 ###
 <h3 align="left">💡 What I Do Differently </h3>
 
-I don’t build dashboards for the sake of visuals.
+I don’t just build dashboards.
 
-I build them to answer one question:
+I answer one question:
+👉 What should the business do next?
 
-"What should the business do next?"
+- Clear business insights  
+- Measurable impact  
+- Actionable recommendations
 
-Every analysis I deliver is built around:
-
-Clear business questions
-
-Measurable impact (revenue, retention, efficiency)
-
-Actionable recommendations — not just insights
-
-No fluff. No overcomplicated models. Just clarity.
 
 ### 
 
@@ -27,7 +34,7 @@ No fluff. No overcomplicated models. Just clarity.
 <div align="left">
   <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30" alt="Excel logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/SQL-Data%20Analysis-003B57?style=for-the-badge&logo=postgresql&logoColor=white)" height="30" alt="SQL logo"  />
+  <img src="https://img.shields.io/badge/SQL-Data%20Analysis-003B57?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="SQL logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" height="30" alt="Power BI logo"  />
   <img width="12" />
@@ -38,67 +45,46 @@ No fluff. No overcomplicated models. Just clarity.
 
 <h3 align="left">📊 What You Can Expect Here </h3>
 
-This portfolio is built around **real-world business scenarios**, not academic exercises.
+This portfolio focuses on real-world business scenarios, not academic exercises.
 
-Each project focuses on:
+Each project is designed to:
+- Uncover insights that impact revenue and performance  
+- Support data-driven decision-making  
+- Deliver clear, actionable recommendations
 
-- Identifying key insights that impact revenue or efficiency
-- Building dashboards designed for decision-making  
-- Providing clear, actionable recommendations
-
-### 
-
-<h3 align="left">📊 Core Expertise </h3>
-
-Sales & Revenue Analysis
-
-Customer Behavior & Segmentation
-
-KPI & Performance Tracking
-
-Data Cleaning & Structuring for Decision-Making
-
-Dashboard Design for Business Users
 
 ###
 
-<h3 align="left">🚀 Featured Work (Business-Focused Projects) </h3>
+<h3 align="left">🚀 Featured Projects (Business Impact Focused) </h3>
 
-🔹 Sales Performance Analysis
+### 📊 Sales Performance Analysis
+- Identified top-performing products driving revenue
+- Detected underperforming segments impacting profitability
+- Delivered actionable recommendations to improve sales strategy
 
-Identified top-performing products and revenue trends
+🔗 [View Project](PUT_LINK_HERE)
 
-Detected underperforming segments costing growth
+### 👥 Customer Behavior Analysis
+- Analyzed purchasing behavior and repeat patterns
+- Identified high-value customer segments
+- Supported targeted marketing decisions
 
-Delivered insights to improve sales strategy
+🔗 [View Project](PUT_LINK_HERE)
 
-🔹 Customer Insights & Segmentation
+### 👨‍💼 HR Attrition Analysis
+- Identified key factors driving employee turnover
+- Highlighted impact of overtime and salary on attrition
+- Provided insights to improve retention strategies
 
-Analyzed purchasing behavior and retention patterns
-
-Built segments to support targeted marketing decisions
-
-Highlighted high-value customer groups
-
-###
-
-🔹 Interactive Business Dashboard
-
-Designed decision-focused Power BI dashboard
-Tracked KPIs that matter (not vanity metrics)
-Enabled faster, data-driven decisions
-
+🔗 [View Project](PUT_LINK_HERE)
+  
 ###
 
 <h3 align="left">📈 What You Get Working With Me </h3>
 
-Insights you can act on immediately
-
-Clean, reliable, decision-ready data
-
-Dashboards that actually get used
-
-A partner who thinks in business terms, not just data
+- Clean, reliable, decision-ready data  
+- Dashboards built for real business use  
+- Insights that drive measurable results
 
 ###
 
@@ -114,25 +100,23 @@ A partner who thinks in business terms, not just data
 
 <h3 align="left">🤝 Let’s Work </h3>
 
-If you’re looking for someone who:
+## 🚀 Let’s Work Together
 
-Understands data and business
+If you're looking for someone who:
+- Understands data AND business  
+- Focuses on impact, not just analysis  
+- Helps you make better decisions  
 
-Focuses on impact, not just analysis
+👉 Let’s turn your data into real business results 💸
 
-Helps you make better decisions faster
-
-Then we should talk.
-
-📩 Let’s turn your data into your strongest advantage.
 
 ###
 
 <div align="left">
-  <a href="reemashraf010@gmail.com" target="_blank">
+  <a href="mailto:reemashraf010@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/reemashraf-insights" target="_blank">
+  <a href="https://www.linkedin.com/in/reemashraf-insights">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
