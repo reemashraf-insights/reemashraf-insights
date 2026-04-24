@@ -39,33 +39,3 @@
 
 
 ###
-
-<img src="https://raw.githubusercontent.com/reemashraf-insights/reemashraf-insights/output/snake.svg" alt="Snake animation" />
-
-###
-
-[![pacman contribution graph](https://raw.githubusercontent.com/reemashraf-insights/reemashraf-insights/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)](https://github.com/reemashraf-insights/reemashraf-insights)
-[![pacman contribution graph](https://raw.githubusercontent.com/reemashraf-insights/reemashraf-insights/output/pacman-contribution-graph.svg#gh-light-mode-only)](https://github.com/reemashraf-insights/reemashraf-insights)
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reemashraf-insights/reemashraf-insights/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reemashraf-insights/reemashraf-insights/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/reemashraf-insights/reemashraf-insights/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/reemashraf-insights/reemashraf-insights/output/pacman-contribution-graph.svg#gh-light-mode-only" alt="Pacman Light">
-  <img src="https://raw.githubusercontent.com/reemashraf-insights/reemashraf-insights/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="Pacman Dark">
-</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/reemashraf-insights/reemashraf-insights/output/pacman-contribution-graph-dark.svg?v=1#gh-dark-mode-only">
-
-###
-
-
