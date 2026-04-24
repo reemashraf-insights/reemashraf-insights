@@ -37,6 +37,13 @@
   </a>
 </div>
 
+
+###
+
+<img src="https://raw.githubusercontent.com/reemashraf-insights/reemashraf-insights/output/snake.svg" alt="Snake animation" />
+
+###
+
 ###
 
 <picture>
