@@ -62,21 +62,21 @@ Each project is designed to:
 - Detected underperforming segments impacting profitability
 - Delivered actionable recommendations to improve sales strategy
 
-🔗 [View Project](PUT_LINK_HERE)
+🔗 [View Project](https://github.com/reemashraf-insights/Sales-Performance-Analysis-Excel)
 
 ### 👥 Customer Behavior Analysis
 - Analyzed purchasing behavior and repeat patterns
 - Identified high-value customer segments
 - Supported targeted marketing decisions
 
-🔗 [View Project](PUT_LINK_HERE)
+🔗 [View Project](https://github.com/reemashraf-insights/Customer-Behavior-Analysis-Excel)
 
 ### 👨‍💼 HR Attrition Analysis
 - Identified key factors driving employee turnover
 - Highlighted impact of overtime and salary on attrition
 - Provided insights to improve retention strategies
 
-🔗 [View Project](PUT_LINK_HERE)
+🔗 [View Project](https://github.com/reemashraf-insights/HR-Attrition-Analysis-Excel)
   
 ###
 
