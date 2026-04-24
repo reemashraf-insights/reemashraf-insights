@@ -35,8 +35,7 @@ I answer one critical question:
 
 <h3 align="left">📊 What You Can Expect Here </h3> 
 
-This portfolio focuses on real
-- world business scenarios, not academic exercises. 
+This portfolio focuses on real-world business scenarios, not academic exercises.
 Each project is designed to: 
 - Uncover insights that impact revenue and performance
 - Support data-driven decision-making
@@ -48,9 +47,9 @@ Each project is designed to:
 
 ###
 
-📊 Sales Performance Analysis 
-- Identified top
-- performing products driving revenue
+### 📊 Sales Performance Analysis
+
+- Identified top-performing products driving revenue 
 - Detected underperforming segments impacting profitability
 - Delivered actionable recommendations to improve sales strategy
   
@@ -60,7 +59,8 @@ Each project is designed to:
 
 ###
 
-👥 Customer Behavior Analysis
+### 👥 Customer Behavior Analysis
+
 - Analyzed purchasing behavior and repeat patterns
 - Identified high-value customer segments
 - Supported targeted marketing decisions
@@ -71,7 +71,8 @@ Each project is designed to:
 
 ###
 
-👨‍💼 HR Attrition Analysis 
+### 👨‍💼 HR Attrition Analysis 
+
 - Identified key factors driving employee turnover
 - Highlighted impact of overtime and salary on attrition
 - Provided insights to improve retention strategies
@@ -84,8 +85,7 @@ Each project is designed to:
 
 <h3 align="left">📈 What You Get Working With Me </h3> 
 
-- Clean, reliable, decision
-- ready data
+- Clean, reliable, decision-ready data 
 - Dashboards built for real business use
 - Insights that drive measurable results 
 
@@ -95,7 +95,9 @@ Each project is designed to:
 
 ### 
 
-<h3 align="left">🚀 Let’s Work Together If you're looking for someone who </h3> 
+<h3 align="left">🤝 Let’s Work Together</h3>
+
+If you're looking for someone who:
 
 - Understands data AND business
 - Focuses on impact, not just analysis
