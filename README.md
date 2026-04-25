@@ -107,11 +107,25 @@ If you're looking for someone who:
 
 ### 
 
-<div align="left"> 
-  <a href="mailto:reemashraf010@gmail.com"> 
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /> </a>
-  <a href="https://www.linkedin.com/in/reemashraf-insights">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> </a> </div> 
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 5px;">
+      <a href="mailto:reemashraf010@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="gmail logo"  /></a>
+    </td>
+    <td style="border: none; padding: 5px;">
+      <a href="https://www.linkedin.com/in/reemashraf-insights"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  /></a>
+    </td>
+    <td style="border: none; padding: 5px;">
+      <a href="https://khamsat.com/user/reemashraf_insights"><img src="https://cdn.worldvectorlogo.com/logos/khamsat-1.svg" width="45" height="30" /></a>
+    </td>
+    <td style="border: none; padding: 5px;">
+      <a href="https://mostaql.com/user/reemashraf_insights"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTdNnLNGl-VuPP24t_tYE0GPCERmCFi2QVQQ&s" width="35" height="30" /></a>
+    </td>
+  </tr>
+</table>
+
+
+
 
 ###
 
