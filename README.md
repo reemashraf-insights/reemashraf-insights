@@ -26,11 +26,17 @@ I answer one critical question:
 ### 
 
 <h3 align="left">🛠️ Tools & Skills </h3>
-<div align="left"> 
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30" alt="Excel logo" /> <img width="12" /> 
-  <img src="https://img.shields.io/badge/SQL-Data%20Analysis-003B57?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="SQL logo" /> <img width="12" /> 
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" height="30" alt="Power BI logo" /> <img width="12" /> </div> 
+<div align="left">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Office_Excel_2007_logo.svg/960px-Office_Excel_2007_logo.svg.png" height="40" alt="Excel logo" /> <img width="17" />
+ <img src="https://images.ctfassets.net/o7xu9whrs0u9/3wmYS3g0nAFXJggA2aQskT/879edc25907953b6d1f30deb7e7f58f7/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" height="40" alt="SQL logo" /> <img width="17" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/960px-New_Power_BI_Logo.svg.png" height="40" alt="Power BI logo" /> <img width="17" />
+ </div> 
 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy-6NX-jEo1PIZiqPuMKKXcfhaDsbF6XorFw&s" height="30" alt="Excel logo" /> <img width="12" /> 
+  <img src="https://www.mytecbits.com/wp-content/uploads/SQL.png" height="30" alt="SQL logo" /> <img width="12" /> 
+  <img src="https://iaccountancy.org/wp-content/uploads/2020/09/power-bi-1-logo.jpg" height="30" alt="Power BI logo" /> <img width="12" />
+
+
+  
 ###
 
 <h3 align="left">📊 What You Can Expect Here </h3> 
