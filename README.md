@@ -48,8 +48,7 @@ Each project is designed to:
 - Deliver clear, actionable recommendations 
 
 ### 
-
-<h3 align="left">🚀 Featured Projects (Business Impact Focused) </h3>
+<!-- <h3 align="left">🚀 Featured Projects (Business Impact Focused) </h3>
 
 ###
 
@@ -87,7 +86,7 @@ Each project is designed to:
 
 💰 Impact: Identified key factors behind employee turnover to support better retention strategies
 
-### 
+###  -->
 
 <h3 align="left">📈 What You Get Working With Me </h3> 
 
