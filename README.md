@@ -1,16 +1,21 @@
 # Reem Ashraf
 
-Data Analyst focused on business intelligence and reporting. I use Excel, SQL, Power BI, and Python to clean data, build data models, and explain what changes in the numbers mean for a business.
+**Data Analyst · Business Intelligence**
 
-## Selected projects
+Management Information Systems graduate focused on building dashboards and data models for sales, operations, and workforce analysis. I use Excel, SQL, Python, and Power BI to prepare data, define metrics, and explain what drives changes in performance.
 
-| Project | What I worked on |
-| --- | --- |
-| **Cottonil Business Intelligence Dashboard** | A team Power BI project covering sales trends, purchasing, supplier accounts, inventory, and product performance. |
-| **Employee Retention and HR Decision Intelligence** | An Insight Squad capstone combining workforce analysis, SQL modeling, explainable attrition scoring, and Power BI reporting. |
+## Featured projects
 
-## Tools
+| Project | What it covers | Tools |
+| --- | --- | --- |
+| [Super Sales Dashboard](https://github.com/reemashraf-insights/super-sales-power-bi) | Retail sales and profitability, geographic comparisons, and monthly reporting. Includes the Excel dataset and interactive report. | Power BI, Excel |
+| [Cottonil Business Intelligence](https://github.com/reemashraf-insights/cottonil-business-intelligence) | Team dashboard covering sales, purchasing, supplier accounts, and inventory. Includes report previews and source workbooks. | Power BI, Excel |
+| [Employee Retention and HR Decision Intelligence](https://github.com/reemashraf-insights/employee-retention-intelligence) | DiGiLiANS capstone by Insight Squad. Combines workforce analytics, SQL modeling, explainable attrition analysis, and Power BI reporting. | Python, SQL, Power BI, n8n |
 
-Power BI · Power Query · DAX · Excel · SQL · Python · Jupyter · n8n
+## Skills
 
-[LinkedIn](https://www.linkedin.com/in/reemashraf-insights)
+- **Business intelligence:** Power BI, Power Query, DAX, and Excel
+- **Data analysis:** SQL, Python, and Jupyter
+- **Workflow automation:** n8n
+
+[Connect on LinkedIn](https://www.linkedin.com/in/reemashraf-insights)
